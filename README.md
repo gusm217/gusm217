@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, JavaScript and CSS**
 
-- ⚡ Fun fact **Karaoke or soccer? I'm your guy <3**
+- ⚡ Fun fact **Karaoke? I'm your guy <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
