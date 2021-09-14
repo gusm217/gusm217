@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gustavo Mendes</h1>
-<h3 align="center">A passionate Fullstack developer from Brazil <3</h3>
+<h3 align="center">A passionate Fullstack developer from Brazil 💗</h3>
 
 - 🌱 I’m currently learning **Back-end**
 
 - 💬 Ask me about **React, JavaScript and CSS**
 
-- ⚡ Fun fact **Karaoke? I'm your guy <3**
+- ⚡ Fun fact **Karaoke? I'm your guy 💗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
