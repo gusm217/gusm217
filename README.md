@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Back-end**
 
-- 💬 Ask me about **Javascript, React and Node
+- 💬 Ask me about **Javascript, React and Node**
 
 - ⚡ Fun fact **Karaoke? I'm your guy 💗**
 
