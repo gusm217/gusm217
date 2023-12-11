@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo Mendes</h1>
-<h3 align="center">A passionate Fullstack developer from Brazil</h3>
+<h3 align="center">A passionate Backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Javascript, React and Node**
+- 💬 Ask me about **Node, Typescript, PostgreSQL, MongoDB, AWS**
 
 - ⚡ Fun fact **Karaoke? I'm your guy 💗**
 
