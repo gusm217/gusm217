@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **gusm217@gmail.com**
 
-- 📄 Know about my experiences [http://tinyurl.com/yz6fwzfj](http://tinyurl.com/yz6fwzfj)
+- 📄 My resume https://encurtador.com.br/ahtI7
 
 - ⚡ Fun fact **Karaoke? I'm your guy ❤️**
 
