@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java 17, GraphQL and Object-Oriented Architecture**
+- 🌱 I’m currently learning **Java 17, GraphQL and curious about Golang**
 
 - 💬 Ask me about **Node, Typescript and Java**
 
